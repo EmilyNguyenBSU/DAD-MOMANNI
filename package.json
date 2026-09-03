@@ -1,8 +1,15 @@
 {
   "name": "dad-momanni",
   "version": "1.0.0",
-  "private": true,
+  "main": "index.js",
   "scripts": {
-    "start": "python3 -m http.server 8000"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
   }
 }
